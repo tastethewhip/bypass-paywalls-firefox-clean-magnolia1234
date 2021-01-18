@@ -3,6 +3,19 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.0.4.0 (2021-01-17)
+Add Cicero (Germany)
+Add Il Secolo XIX (Italy)
+Add L'Usine Nouvelle (France)
+Add La Nuova Sardegna (Italy)
+Add Schweriner Volkszeitung (Germany)
+Add Sud Ouest (France)
+Fix-update Discover Magazine
+Fix-update Faz.net (Zeitung subdomain)
+Fix-update Funke Medien (Germany)
+Update block general paywall script (NewsMemory)
+Update set user-agent/referer (limit)
+
 * v2.0.3.0 (2021-01-10)
 Add Curbed (New York Magazine)
 Add group TorStar (Canada)

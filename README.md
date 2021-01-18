@@ -193,6 +193,7 @@ Alma Talent sites (grouped in options) like
 [Esprit](https://esprit.presse.fr) -
 [L'Obs](https://www.nouvelobs.com) -
 [L'Opinion](https://www.lopinion.fr) –
+[L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
 [Le Journal du Dimanche](https://lejdd.fr) –
 [Le Journal du Net](https://www.journaldunet.com) -
@@ -202,6 +203,7 @@ Alma Talent sites (grouped in options) like
 [Paris Match](https://www.parismatch.com) -
 [Science & Vie](https://www.science-et-vie.com) -
 [Sciences et Avenir](https://www.sciencesetavenir.fr) -
+[Sud Ouest](https://www.sudouest.fr) -
 [Valeurs Actuelles](https://www.valeursactuelles.com)\
 Grouped in options:\
 Groupe EBRA sites like
@@ -237,6 +239,7 @@ Groupe Rossel sites (grouped in options) like
 [SudInfo](https://www.sudinfo.be)
 
 ##### Germany/Austria
+[Cicero](https://www.cicero.de) -
 [Deutsche Wirtschafts Nachrichten](https://deutsche-wirtschafts-nachrichten.de) -
 [Die Zeit](https://www.zeit.de) -
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
@@ -246,6 +249,7 @@ Groupe Rossel sites (grouped in options) like
 [Kurier.at](https://kurier.at) -
 [Piqd.de](https://www.piqd.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
+[Schweriner Volkszeitung](https://www.svz.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
 [WirtschaftsWoche](https://www.wiwo.de)\
 Grouped in options:\
@@ -275,6 +279,8 @@ Madsack Mediengruppe sites like
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
 [Il Manifesto](https://ilmanifesto.it) -
 [Il Resto del Carlino](https://www.ilrestodelcarlino.it) -
+[Il Secolo XIX](https://www.ilsecoloxix.it) -
+[La Nuova Sardegna](https://www.lanuovasardegna.it) -
 [La Repubblica](https://www.repubblica.it) -
 [La Stampa](https://www.lastampa.it) -
 [Le Scienze](https://www.lescienze.it) -
