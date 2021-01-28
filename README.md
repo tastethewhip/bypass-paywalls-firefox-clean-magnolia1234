@@ -20,16 +20,20 @@ By default BPC has limited permissions, but you can opt-in to enable custom site
 Check for updates (in about:addons) and allow permissions for newly supported sites (else no update will be installed).
 
 #### Android
-On Android this add-on only works with Firefox 68 (Fennec); Firefox 79+ (Fenix) only supports 9 'recommended' add-ons (for now).\
-BPC add-on works fine in Firefox Nightly (or IceRaven) though (when you load BPC from a [custom add-on collection](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly)).\
-For Firefox Nightly you have to make your own custom add-on collection (or use another that contains BPC). \
+On Android this add-on doesn't work with latest Firefox v84 (Fenix); it only supports 9 'recommended' add-ons (for now).\
+BPC add-on works fine in [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix), [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) or [IceRaven](https://github.com/fork-maintainers/iceraven-browser) though (when you load BPC from a [custom add-on collection](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly)).\
+For Firefox Nightly or Fennec F-Droid (based on latest Firefox for Android) you have to make your own custom add-on collection (or use another that contains BPC). \
 [Iceraven (Fenix fork)](https://github.com/fork-maintainers/iceraven-browser) uses: [What I want on Fenix](https://addons.mozilla.org/en-US/firefox/collections/16201230/What-I-want-on-Fenix)\
-It has a custom add-ons account: 16201230 & collection: What-I-want-on-Fenix, but somehow it's not working in Firefox Nightly.
+It has a custom add-ons account: 16201230 & collection: What-I-want-on-Fenix.\
+In IceRaven all add-ons are shown (with search option), but In Firefox Nightly and Fennec F-Droid only the first 50 add-ons are shown (including this add-on).\
+PS enabling custom sites (optional permissions) isn't working on Android (Firefox Nightly, Fennec F-Droid or IceRaven).
 
 #### Chrome/Chromium
 Visit the [Chrome repository](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) of Bypass Paywall Clean.
 
 ### List of supported websites
+
+_* free articles only._
 
 ##### World news
 [First Things](https://www.firstthings.com) -
@@ -62,7 +66,7 @@ Visit the [Chrome repository](https://gitlab.com/magnolia1234/bypass-paywalls-ch
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
-[MarketWatch](https://www.marketwatch.com)\* -
+[MarketWatch](https://www.marketwatch.com)\ -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
 [Modern Healthcare](https://www.modernhealthcare.com) -
 [Quartz](https://qz.com)* -
@@ -103,6 +107,7 @@ Visit the [Chrome repository](https://gitlab.com/magnolia1234/bypass-paywalls-ch
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
+[The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com)
 
@@ -141,6 +146,7 @@ Visit the [Chrome repository](https://gitlab.com/magnolia1234/bypass-paywalls-ch
 [Le Devoir](https://www.ledevoir.com) -
 [National Post](https://www.nationalpost.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
+[The Hill Times](https://www.hilltimes.com) -
 [The Logic](https://thelogic.co)\
 [The Toronto Star](https://www.thestar.com) and regional TorStar sites (grouped in options) like
 [Niagara Falls Review](https://www.niagarafallsreview.ca) -
@@ -161,6 +167,7 @@ Visit the [Chrome repository](https://gitlab.com/magnolia1234/bypass-paywalls-ch
 [Irish Independent](https://www.independent.ie) -
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
+[Prospect Magazine](https://www.prospectmagazine.co.uk) -
 [The Economist](https://www.economist.com) -
 [The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
@@ -248,6 +255,7 @@ Groupe Rossel sites (grouped in options) like
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
 [Piqd.de](https://www.piqd.de) -
+[Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
@@ -319,15 +327,22 @@ Grouped in options:\
 [Trouw](https://www.trouw.nl) -
 [Volkskrant](https://www.volkskrant.nl)
 
+##### Portugal
+[Correio da Manhã](https://www.cmjornal.pt) -
+[Observador](https://observador.pt)
+
 ##### Russia
 [Republic.ru](https://republic.ru)
 
 ##### Spain
 [ABC](https://www.abc.es) -
+[El Confidencial](https://www.elconfidencial.com) -
+[El Diario.es](https://www.eldiario.es) -
 [El Mundo](https://www.elmundo.es) -
 [El País](https://elpais.com) -
-[El Periódico](https://www.elperiodico.com) -
+[El Periódico de Catalunya](https://www.elperiodico.com) -
 [Expansión](https://www.expansion.com) -
+[La Nueva España](https://www.lne.es) -
 [La Vanguardia](https://www.lavanguardia.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -433,6 +448,7 @@ For example:
 [Globes](https://www.globes.co.il) -
 [Haaretz.co.il](https://www.haaretz.co.il) -
 [Haaretz.com](https://www.haaretz.com) -
+[The Jerusalem Post](https://www.jpost.com) -
 [The Marker](https://www.themarker.com)
 
 #### Lebanon
@@ -440,6 +456,7 @@ For example:
 
 #### Latin America
 ##### Argentina
+[Ámbito](https://www.ambito.com) -
 [Clarín](https://www.clarin.com) -
 [La Nación](https://www.lanacion.com.ar)
 ##### Brazil
@@ -461,7 +478,7 @@ For example:
 [El Comercio](https://elcomercio.pe) -
 [Gestión](https://gestion.pe)
 
-_*free articles only._
+_* free articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
@@ -489,7 +506,7 @@ Check 'Options'-link in popup-menu and go to custom sites.
 Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
 Also you can enable Googlebot user-agent or disable Javascript for (sub)domain(s)/external sources.\
-PS enabling custom sites (optional permissions) isn't working on Android (Firefox Nightly or IceRaven).
+PS enabling custom sites (optional permissions) isn't working on Android (Firefox Nightly, Fennec F-Droid or IceRaven).
 
 ### Add excluded site
 Add excluded sites/domains (for your subscriptions).\

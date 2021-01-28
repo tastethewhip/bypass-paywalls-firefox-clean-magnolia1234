@@ -2,6 +2,27 @@
 Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
+Add The Hill Times (Canada)
+Add The Jerusalem Post (Israel)
+Fix-update El Pais (premium/images)
+Update custom sites (block Javascript)
+
+* v2.0.5.0 (2021-01-24)
+Add Ambito (Argentina)
+Add Correio da Manha (Portugal)
+Add El Confidencial (Spain)
+Add elDiario.es (Spain)
+Add La Nueva Espana (Spain)
+Add Observador (Portugal)
+Add Prospect Magazine (United Kingdom)
+Add Ruhr Nachrichten (Germany)
+Add The Point Magazine
+Fix-update El Pais (Spain)
+Fix-update Helsingin Sanomat (Finland)
+Fix-update MarketWatch (premium)
+Fix-update MIT Sloan Management Review
+Update block TinyPass (all subdomains)
+Update excluded sites (no general block paywall scripts)
 
 * v2.0.4.0 (2021-01-17)
 Add Cicero (Germany)
