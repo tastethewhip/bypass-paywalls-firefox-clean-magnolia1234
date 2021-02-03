@@ -43,6 +43,7 @@ _* free articles only._
 [Inkl](https://www.inkl.com) -
 [National Review](https://www.nationalreview.com) -
 [Newsweek](https://www.newsweek.com) -
+[Stratfor](https://stratfor.com) -
 [The American Interest](https://www.the-american-interest.com) -
 [The Atlantic](https://www.theatlantic.com) -
 [The Christian Science Monitor](https://www.csmonitor.com) -
@@ -367,6 +368,7 @@ Grupo Vocento (ABC) regional sites like
 #### Australia/New Zealand
 
 [Brisbane Times](https://www.brisbanetimes.com.au) -
+[Griffith Review](https://www.griffithreview.com) -
 [New Zealand Herald](https://www.nzherald.co.nz) -
 [The Age](https://www.theage.com.au) -
 [The Australian Financial Review](https://www.afr.com) -

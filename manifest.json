@@ -162,6 +162,7 @@
         "*://*.globes.co.il/*",
         "*://*.globo.com/*",
         "*://*.goldcoastbulletin.com.au/*",
+        "*://*.griffithreview.com/*",
         "*://*.groene.nl/*",
         "*://*.grubstreet.com/*",
         "*://*.gva.be/*",
@@ -339,6 +340,7 @@
         "*://*.statista.com/*",
         "*://*.stcatharinesstandard.ca/*",
         "*://*.stocknews.com/*",
+        "*://*.stratfor.com/*",
         "*://*.sudinfo.be/*",
         "*://*.sudouest.fr/*",
         "*://*.sueddeutsche.de/*",
@@ -444,5 +446,5 @@
         "*://*.userzoom.com/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.0.5.2"
+    "version": "2.0.6.0"
 }
