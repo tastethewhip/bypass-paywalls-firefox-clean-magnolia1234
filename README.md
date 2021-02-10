@@ -20,12 +20,15 @@ By default BPC has limited permissions, but you can opt-in to enable custom site
 Check for updates (in about:addons) and allow permissions for newly supported sites (else no update will be installed).
 
 #### Android
-On Android this add-on doesn't work with latest Firefox v84 (Fenix); it only supports 9 'recommended' add-ons (for now).\
+On Android this add-on doesn't work with latest Firefox v84 (Fenix); it only supports a number of 'recommended' add-ons (for now).\
+Only from Firefox v85 you can install recommended add-ons via [AMO](https://addons.mozilla.org) - so no more need to add these to your custom add-on collection (see below).
+
 BPC add-on works fine in [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix), [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) or [IceRaven](https://github.com/fork-maintainers/iceraven-browser) though (when you load BPC from a [custom add-on collection](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly)).\
 For Firefox Nightly or Fennec F-Droid (based on latest Firefox for Android) you have to make your own custom add-on collection (or use another that contains BPC). \
 [Iceraven (Fenix fork)](https://github.com/fork-maintainers/iceraven-browser) uses: [What I want on Fenix](https://addons.mozilla.org/en-US/firefox/collections/16201230/What-I-want-on-Fenix)\
 It has a custom add-ons account: 16201230 & collection: What-I-want-on-Fenix.\
-In IceRaven all add-ons are shown (with search option), but In Firefox Nightly and Fennec F-Droid only the first 50 add-ons are shown (including this add-on).\
+In IceRaven all add-ons are shown (with search option), but In Firefox Nightly and Fennec F-Droid only the first 50 add-ons are shown (including this add-on).
+
 PS enabling custom sites (optional permissions) isn't working on Android (Firefox Nightly, Fennec F-Droid or IceRaven).
 
 #### Chrome/Chromium
@@ -67,7 +70,8 @@ _* free articles only._
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
-[MarketWatch](https://www.marketwatch.com)\ -
+[Law.com](https://www.law.com)* -
+[MarketWatch](https://www.marketwatch.com) -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
 [Modern Healthcare](https://www.modernhealthcare.com) -
 [Quartz](https://qz.com)* -
@@ -107,6 +111,7 @@ _* free articles only._
 [Rolling Stone](https://www.rollingstone.com) -
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
+[The Art Newspaper](https://www.theartnewspaper.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
@@ -206,6 +211,7 @@ Alma Talent sites (grouped in options) like
 [Le Journal du Dimanche](https://lejdd.fr) –
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Parisien](https://www.leparisien.fr) -
+[Le Un](https://le1hebdo.fr) -
 [Les Échos](https://www.lesechos.fr) -
 [Libération](https://www.liberation.fr)* –
 [Paris Match](https://www.parismatch.com) -
@@ -279,7 +285,13 @@ Madsack Mediengruppe sites like
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse (Hannover)](https://www.neuepresse.de) -
-[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de)\
+Rheinische Post Mediengruppe like
+[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
+[General-Anzeiger Bonn](https://ga.de) -
+[Rheinische Post](https://rp-online.de) -
+[Saarbrücker Zeitung](http://www.saarbruecker-zeitung.de) -
+[Trierischer Volksfreund](http://www.volksfreund.de)
 
 ##### Italy
 [Corriere Della Sera](https://www.corriere.it) -
@@ -335,15 +347,22 @@ Grouped in options:\
 ##### Russia
 [Republic.ru](https://republic.ru)
 
+##### Slovenia
+[Finance.si](https://www.finance.si)
+
 ##### Spain
 [ABC](https://www.abc.es) -
+[Diario de Ibiza](https://www.diariodeibiza.es) -
+[Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Confidencial](https://www.elconfidencial.com) -
 [El Diario.es](https://www.eldiario.es) -
 [El Mundo](https://www.elmundo.es) -
 [El País](https://elpais.com) -
 [El Periódico de Catalunya](https://www.elperiodico.com) -
 [Expansión](https://www.expansion.com) -
+[Faro de Vigo](https://www.farodevigo.es) -
 [La Nueva España](https://www.lne.es) -
+[La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -507,7 +526,7 @@ Check 'Options'-link in popup-menu and go to custom sites.
 \* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies for non-listed sites).  
 Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot user-agent or disable Javascript for (sub)domain(s)/external sources.\
+Also you can enable Googlebot user-agent, disable Javascript for (sub)domain(s)/external sources and/or set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set).\
 PS enabling custom sites (optional permissions) isn't working on Android (Firefox Nightly, Fennec F-Droid or IceRaven).
 
 ### Add excluded site

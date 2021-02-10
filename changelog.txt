@@ -3,6 +3,21 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.0.7.0 (2021-02-07)
+Add Diario de Ibiza/Mallorca, Faro de Vigo & La Provincia (Spain)
+Add Finance.si (Slovenia)
+Add Law.com (free articles only)
+Add Le Un (France)
+Add Rheinische Post Mediengruppe (only plus if amp)
+Add The Art Newspaper
+Fix-update ilManifesto.it
+Fix-update Madsack Mediengruppe (amp)
+Fix-update Medium/Towards Data Science (login)
+Fix-update Medium custom domains (login & in options)
+Fix-update Stratfor (style; not menu)
+Fix-update Sud Ouest (decode text)
+Update custom sites (set referer)
+
 * v2.0.6.0 (2021-01-31)
 Add Griffith Review (Australia)
 Add Stratfor
@@ -391,7 +406,7 @@ Fix-update LaDepeche.fr
 Fix-update LesEchos.fr (premium)
 Fix-update Miami Herald
 Add changelog & update json links (raw)
-Fix mismatch domain with url query string (usse matchDomain also in background.js)
+Fix mismatch domain with url query string (use matchDomain also in background.js)
 Resynch Chrome/Firefox code
 
 * v1.7.0.5 (2020-04-28)
