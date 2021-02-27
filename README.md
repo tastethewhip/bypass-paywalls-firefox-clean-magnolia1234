@@ -112,6 +112,7 @@ _* free articles only._
 [Rolling Stone](https://www.rollingstone.com) -
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
+[Sports Illustrated](https://www.si.com) -
 [The Art Newspaper](https://www.theartnewspaper.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
 [The Point Magazine](https://thepointmag.com) -
@@ -124,6 +125,7 @@ _* free articles only._
 [Chicago Tribune](https://www.chicagotribune.com) -
 [Daily Press](https://www.dailypress.com) -
 [Hartford Courant](https://www.courant.com) -
+[Houston Chronicle](https://www.houstonchronicle.com) -
 [Los Angeles Business Journal](https://labusinessjournal.com) -
 [Los Angeles Times](https://www.latimes.com) -
 [Miami Herald](https://www.miamiherald.com) -
@@ -278,6 +280,7 @@ Groupe Rossel sites (grouped in options) like
 [Piqd.de](https://www.piqd.de) -
 [Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
+[Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
 [WirtschaftsWoche](https://www.wiwo.de)\
@@ -398,6 +401,12 @@ Grupo Vocento (ABC) regional sites like
 ##### Switzerland
 [Neue Zürcher Zeitung](https://www.nzz.ch)
 
+#### Africa
+
+###### Kenya
+
+[Daily Nation](https://nation.africa)
+
 #### Australia/New Zealand
 
 [Brisbane Times](https://www.brisbanetimes.com.au) -
@@ -490,6 +499,7 @@ For example:
 [L'Orient-Le Jour](https://www.lorientlejour.com)
 
 #### Latin America
+
 ##### Argentina
 [Ámbito](https://www.ambito.com) -
 [Clarín](https://www.clarin.com) -
