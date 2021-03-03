@@ -3,6 +3,19 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.1.0.0 (2021-02-28)
+Add Die Rheinpfalz (Germany)
+Add Gannett Group (local USA Today; opt-in to custom sites)
+Add New York Daily News (local USA)
+Add Rhein-Zeitung (Germany)
+Add The Virginian-Pilot (local USA)
+Add VentureBeat
+Fix-update El Periodico de Catalunya
+Fix-update Irish Times (no amp)
+Grouping Tribune Publishing Company
+Remove The News-Gazette (local USA)
+Update options (grouped domains to sites.js)
+
 * v2.0.9.1 (2021-02-21)
 Fix options/cookie storeId (Firefox Android)
 
@@ -154,7 +167,7 @@ Update popup (Twitter)
 
 * v1.9.7.0 (2020-11-27)
 Add Alma Talent sites (Finland)
-Add El Periodico (Spain)
+Add El Periodico de Catalunya (Spain)
 Add Grupo Vocento (Spain, regional daily)
 Add La Croix (France)
 Add The Hindu BusinessLine (India)

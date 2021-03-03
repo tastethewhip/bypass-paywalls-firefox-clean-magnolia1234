@@ -92,6 +92,7 @@ _* free articles only._
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
+[VentureBeat](https://venturebeat.com) -
 [Wired](https://www.wired.com)
 
 #### Encyclopedia/Book library/Knowledge base
@@ -120,11 +121,7 @@ _* free articles only._
 [Variety](https://variety.com)
 
 ##### Local USA news
-[Baltimore Sun](https://www.baltimoresun.com) -
 [Crain's Chicago Business](https://www.chicagobusiness.com) -
-[Chicago Tribune](https://www.chicagotribune.com) -
-[Daily Press](https://www.dailypress.com) -
-[Hartford Courant](https://www.courant.com) -
 [Houston Chronicle](https://www.houstonchronicle.com) -
 [Los Angeles Business Journal](https://labusinessjournal.com) -
 [Los Angeles Times](https://www.latimes.com) -
@@ -132,22 +129,23 @@ _* free articles only._
 [Mountain View Voice](https://www.mv-voice.com) -
 [New York Magazine](https://www.nymag.com) (+ [Curbed](https://www.curbed.com/), [Grub Street](https://www.grubstreet.com), [The Cut](https://www.thecut.com) & [Vulture](https://www.vulture.com)) -
 [Orange County Register](https://www.ocregister.com) -
-[Orlando Sentinel](https://www.orlandosentinel.com) -
 [Palo Alto Online](https://www.paloaltoonline.com) -
 [Pittsburgh Post Gazette](https://post-gazette.com) -
 [San Diego Union Tribune](https://sandiegouniontribune.com) -
 [San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
-[SunSentinel](https://www.sun-sentinel.com) -
 [The Boston Globe](https://www.bostonglobe.com) -
 [The Denver Post](https://www.denverpost.com) -
 [The Mercury News](https://www.mercurynews.com) -
-[The Morning Call](https://www.mcall.com) -
 [The Seattle Times](https://www.seattletimes.com) -
-[The News-Gazette](https://www.news-gazette.com) -
 [The Philadelphia Inquirer](https://www.inquirer.com) -
 [Winston-Salem Journal](https://www.journalnow.com)\
 Grouped in options:\
+Gannett Group (local USA Today) sites like (opt-in to custom sites)
+[Detroit Free Press](https://www.freep.com) -
+[Milwaukee Journal Sentinel](https://www.jsonline.com) -
+[The Indianapolis Star](https://www.indystar.com) -
+[The Record (North Jersey)](https://www.northjersey.com)\
 McClatchy Group sites like
 [Belleville News-Democrat](https://www.bnd.com) -
 [Fort Worth Star-Telegram](https://www.star-telegram.com) -
@@ -159,7 +157,17 @@ McClatchy Group sites like
 [The Sacramento Bee](https://www.sacbee.com) -
 [The State](https://www.thestate.com) -
 [The Wichita Eagle](https://www.kansas.com) -
-[Tri-City Herald](https://www.tri-cityherald.com)
+[Tri-City Herald](https://www.tri-cityherald.com)\
+Tribune Publishing Company sites like
+[Baltimore Sun](https://www.baltimoresun.com) -
+[Chicago Tribune](https://www.chicagotribune.com) -
+[Daily Press](https://www.dailypress.com) -
+[Hartford Courant](https://www.courant.com) -
+[New York Daily News](https://www.nydailynews.com) -
+[Orlando Sentinel](https://www.orlandosentinel.com) -
+[SunSentinel](https://www.sun-sentinel.com) -
+[The Morning Call](https://www.mcall.com) -
+[The Virginian-Pilot](https://www.pilotonline.com)
 
 #### Canada
 [Financial Post](https://www.financialpost.com) -
@@ -270,6 +278,7 @@ Groupe Rossel sites (grouped in options) like
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
 [Cicero](https://www.cicero.de) -
 [Deutsche Wirtschafts Nachrichten](https://deutsche-wirtschafts-nachrichten.de) -
+[Die Rheinpfalz](https://www.rheinpfalz.de) -
 [Die Zeit](https://www.zeit.de) -
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Freie Presse](https://www.freiepresse.de) -
@@ -278,6 +287,7 @@ Groupe Rossel sites (grouped in options) like
 [Kurier.at](https://kurier.at) -
 [Neue Osnabrücker Zeitung](https://www.noz.de]) -
 [Piqd.de](https://www.piqd.de) -
+[Rhein-Zeitung](https://www.rhein-zeitung.de) -
 [Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
