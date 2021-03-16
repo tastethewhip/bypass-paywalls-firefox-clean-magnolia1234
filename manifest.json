@@ -133,6 +133,7 @@
         "*://*.elcorreo.com/*",
         "*://*.eldiario.es/*",
         "*://*.eldiariomontanes.es/*",
+        "*://*.elespanol.com/*",
         "*://*.elmercurio.com/*",
         "*://*.elmundo.es/*",
         "*://*.elnortedecastilla.es/*",
@@ -280,6 +281,7 @@
         "*://*.modernhealthcare.com/*",
         "*://*.morgenpost.de/*",
         "*://*.mv-voice.com/*",
+        "*://*.mz-web.de/*",
         "*://*.nation.africa/*",
         "*://*.nationalgeographic.com/*",
         "*://*.nationalpost.com/*",
@@ -418,6 +420,7 @@
         "*://*.time.com/*",
         "*://*.timeshighereducation.com/*",
         "*://*.tivi.fi/*",
+        "*://*.tlz.de/*",
         "*://*.towardsdatascience.com/*",
         "*://*.townsvillebulletin.com.au/*",
         "*://*.tri-cityherald.com/*",
@@ -468,6 +471,7 @@
         "*://*.cedsdigital.it/*",
         "*://*.corriereobjects.it/*",
         "*://*.ctfassets.net/*",
+        "*://*.eestatic.com/*",
         "*://*.emol.cl/*",
         "*://*.epimg.net/*",
         "*://*.flip-pay.com/*",
@@ -485,5 +489,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.1.2"
+    "version": "2.1.2.0"
 }
