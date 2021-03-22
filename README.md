@@ -70,6 +70,7 @@ _* free articles only._
 [Bloomberg](https://www.bloomberg.com) -
 [Business Insider](https://www.businessinsider.com) -
 [Digiday](https://digiday.com) –
+[Entrepreneur](https://www.entrepreneur.com) -
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
@@ -138,6 +139,7 @@ _* free articles only._
 [San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
 [The Boston Globe](https://www.bostonglobe.com) -
+[The Dallas Morning News](https://www.dallasnews.com) -
 [The Denver Post](https://www.denverpost.com) -
 [The Mercury News](https://www.mercurynews.com) -
 [The Seattle Times](https://www.seattletimes.com) -
@@ -280,6 +282,7 @@ Groupe Rossel sites (grouped in options) like
 
 ##### Germany/Austria
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
+[Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
 [Deutsche Wirtschafts Nachrichten](https://deutsche-wirtschafts-nachrichten.de) -
 [Die Rheinpfalz](https://www.rheinpfalz.de) -

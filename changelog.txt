@@ -3,6 +3,12 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.1.3.0 (2021-03-21)
+Add Berliner Zeitung (Germany)
+Add The Dallas Morning News (local USA)
+Add Entrepreneur
+Fix-update The Saturday Paper
+
 * v2.1.2.0 (2021-03-14)
 Add El Espanol (Spain)
 Add Mitteldeutsche Zeitung (Germany)
