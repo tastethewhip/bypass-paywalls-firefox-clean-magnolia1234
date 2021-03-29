@@ -110,6 +110,7 @@ _* free articles only._
 [Statista](https://www.statista.com)
 
 ##### Magazines/Blogs
+[Apollo Magazine](https://www.apollo-magazine.com) -
 [Atavist Magazine](https://magazine.atavist.com) -
 [Commentary Magazine](https://www.commentarymagazine.com) -
 [Medium](https://www.medium.com/topics) (for custom domains enable custom sites) -
@@ -151,7 +152,7 @@ Gannett Group (local USA Today) sites like (opt-in to custom sites)
 [Milwaukee Journal Sentinel](https://www.jsonline.com) -
 [The Indianapolis Star](https://www.indystar.com) -
 [The Record (North Jersey)](https://www.northjersey.com)\
-McClatchy Group sites like
+McClatchy Group sites like (opt-in to custom sites for unlisted)
 [Belleville News-Democrat](https://www.bnd.com) -
 [Fort Worth Star-Telegram](https://www.star-telegram.com) -
 [Lexington Herald-Leader](https://www.kentucky.com) -
@@ -294,6 +295,7 @@ Groupe Rossel sites (grouped in options) like
 [Kurier.at](https://kurier.at) -
 [Mitteldeutsche Zeitung](https://www.mz-web.de) -
 [Neue Osnabrücker Zeitung](https://www.noz.de]) -
+[Nordwest Zeitung](https://www.nwzonline.de) -
 [Piqd.de](https://www.piqd.de) -
 [Rhein-Zeitung](https://www.rhein-zeitung.de) -
 [Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
@@ -324,6 +326,7 @@ Madsack Mediengruppe sites like
 [Ostsee-Zeitung](https://www.ostsee-zeitung.de)\
 Rheinische Post Mediengruppe like
 [Aachener Nachrichten](https://www.aachener-nachrichten.de) -
+[Aachener Zeitung](https://www.aachener-zeitung.de) -
 [General-Anzeiger Bonn](https://ga.de) -
 [Rheinische Post](https://rp-online.de) -
 [Saarbrücker Zeitung](http://www.saarbruecker-zeitung.de) -
@@ -497,6 +500,7 @@ For example:
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw) -
 [Harvard Business Review Taiwan](https://www.hbrtaiwan.com) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
+[NK News](https://www.nknews.org)* -
 [South China Morning Post](https://www.scmp.com) -
 [Tech in Asia](https://www.techinasia.com) -
 [The Diplomat](https://www.thediplomat.com) -
@@ -582,6 +586,7 @@ You can also exclude a specific domain which is grouped in options.
 
 ### Troubleshooting
 * This add-on works best alongside the adblocker [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
+* Add usefull custom filter [Fanboy's Enhanced Tracking List](https://www.fanboy.co.nz/enhancedstats.txt)
 * If a site doesn't work, try turning off uBlock and refreshing.
 * Make sure the (new) site is checked under Options.
 * You will be logged out for most of the sites you have checked.
