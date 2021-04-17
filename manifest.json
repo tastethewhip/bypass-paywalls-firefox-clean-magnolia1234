@@ -120,6 +120,7 @@
         "*://*.destentor.nl/*",
         "*://*.deutsche-wirtschafts-nachrichten.de/*",
         "*://*.df.cl/*",
+        "*://*.di.se/*",
         "*://*.diariodeibiza.es/*",
         "*://*.diariodemallorca.es/*",
         "*://*.diariosur.es/*",
@@ -231,6 +232,7 @@
         "*://*.ladepeche.fr/*",
         "*://*.lalsace.fr/*",
         "*://*.lanacion.com.ar/*",
+        "*://*.lanouvellerepublique.fr/*",
         "*://*.lanuovasardegna.it/*",
         "*://*.laprovincia.es/*",
         "*://*.lardennais.fr/*",
@@ -441,6 +443,7 @@
         "*://*.valeursactuelles.com/*",
         "*://*.vanityfair.com/*",
         "*://*.variety.com/*",
+        "*://*.velonews.com/*",
         "*://*.venturebeat.com/*",
         "*://*.volksfreund.de/*",
         "*://*.volkskrant.nl/*",
@@ -477,7 +480,6 @@
         "*://*.amazonaws.com/*",
         "*://*.apnarm.net.au/*",
         "*://*.bwbx.io/*",
-        "*://*.cdn.arcpublishing.com/*",
         "*://*.cedsdigital.it/*",
         "*://*.corriereobjects.it/*",
         "*://*.ctfassets.net/*",
@@ -499,5 +501,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.5.0"
+    "version": "2.1.6.1"
 }

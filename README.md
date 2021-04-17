@@ -123,7 +123,8 @@ _* free articles only._
 [The Daily Beast](https://www.thedailybeast.com)* -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
-[Variety](https://variety.com)
+[Variety](https://variety.com) -
+[VeloNews](https://www.velonews.com)
 
 ##### Local USA news
 [Crain's Chicago Business](https://www.chicagobusiness.com) -
@@ -238,6 +239,7 @@ Alma Talent sites (grouped in options) like
 [L'Opinion](https://www.lopinion.fr) -
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
+[La Nouvelle République du Centre-Ouest](https://www.lanouvellerepublique.fr) -
 [La Tribune](https://www.latribune.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
 [Le Journal du Net](https://www.journaldunet.com) -
@@ -423,6 +425,7 @@ Grupo Vocento (ABC) regional sites like
 [Sur](https://www.diariosur.es)
 
 ##### Sweden
+[Dagens Industri](https://www.di.se) -
 [Dagens Nyheter](https://www.dn.se)
 
 ##### Switzerland

@@ -3,6 +3,18 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.1.6.1 (2021-04-12)
+Bugfix Le Dauphine (plus some French sites)
+
+* v2.1.6.0 (2021-04-11)
+Add Dagens Industri (Sweden)
+Add La Nouvelle Republique du Centre-Ouest (France)
+Add VeloNews
+Fix-update Business Standard (mobile to desktop)
+Fix-update El Pais
+Fix-update National Geographic USA
+Fix-update Stratfor
+
 * v2.1.5.0 (2021-04-04)
 Add Billboard
 Add La Tribune (France)
