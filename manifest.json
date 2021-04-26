@@ -323,6 +323,7 @@
         "*://*.nybooks.com/*",
         "*://*.nydailynews.com/*",
         "*://*.nymag.com/*",
+        "*://*.nyteknik.se/*",
         "*://*.nytimes.com/*",
         "*://*.nzherald.co.nz/*",
         "*://*.nzz.ch/*",
@@ -352,6 +353,7 @@
         "*://*.repubblica.it/*",
         "*://*.republic.ru/*",
         "*://*.republicain-lorrain.fr/*",
+        "*://*.reuters.com/*",
         "*://*.rhein-zeitung.de/*",
         "*://*.rheinpfalz.de/*",
         "*://*.rollingstone.com/*",
@@ -501,5 +503,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.6.1"
+    "version": "2.1.7.0"
 }

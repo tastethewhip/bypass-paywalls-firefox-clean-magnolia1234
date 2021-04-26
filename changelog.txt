@@ -3,6 +3,12 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.1.7.0 (2021-04-18)
+Add NyTeknik (Sweden)
+Add Reuters
+Fix-update Crain's Chicago Business
+Fix-update The Diplomat (magazine)
+
 * v2.1.6.1 (2021-04-12)
 Bugfix Le Dauphine (plus some French sites)
 
