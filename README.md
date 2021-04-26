@@ -121,6 +121,7 @@ _* free articles only._
 [SofRep](https://sofrep.com) -
 [Sports Illustrated](https://www.si.com) -
 [The Art Newspaper](https://www.theartnewspaper.com) -
+[The Athletic](https://theathletic.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
@@ -205,6 +206,7 @@ Tribune Publishing Company sites like
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
+[The Athletic UK](https://theathletic.com) -
 [The Economist](https://www.economist.com) -
 [The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
@@ -236,6 +238,7 @@ Alma Talent sites (grouped in options) like
 [Challenges](https://www.challenges.fr) -
 [Charlie Hebdo](https://charliehebdo.fr) -
 [Esprit](https://esprit.presse.fr) -
+[L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
 [L'Opinion](https://www.lopinion.fr) -
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
@@ -322,30 +325,25 @@ Funke Mediengruppe sites like
 [Westdeutsche Allgemeine Zeitung](https://www.waz.de) -
 [Westfalenpost](https://www.wp.de) -
 [Westfälische Rundschau](https://www.wr.de)\
-Madsack Mediengruppe sites like
+Madsack Mediengruppe sites like (opt-in to custom sites for unlisted)
 [Hannoversche Allgemeine Zeitung](https://www.haz.de) -
 [Kieler Nachrichten](https://www.kn-online.de) -
 [Leipziger Volkszeitung](https://www.lvz.de) -
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse (Hannover)](https://www.neuepresse.de) -
-[Ostsee-Zeitung](https://www.ostsee-zeitung.de)\
-Rheinische Post Mediengruppe like
-[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
-[Aachener Zeitung](https://www.aachener-zeitung.de) -
-[General-Anzeiger Bonn](https://ga.de) -
-[Rheinische Post](https://rp-online.de) -
-[Saarbrücker Zeitung](http://www.saarbruecker-zeitung.de) -
-[Trierischer Volksfreund](http://www.volksfreund.de)
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
 
 ##### Italy
 [Corriere Della Sera](https://www.corriere.it) -
 [Domani](https://editorialedomani.it) -
 [GElocal.it](https://quotidiani.gelocal.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
+[Il Giorno](https://www.ilgiorno.it) -
 [Il Manifesto](https://ilmanifesto.it) -
 [Il Resto del Carlino](https://www.ilrestodelcarlino.it) -
 [Il Secolo XIX](https://www.ilsecoloxix.it) -
+[La Nazione](https://www.lanazione.it) -
 [La Nuova Sardegna](https://www.lanuovasardegna.it) -
 [La Repubblica](https://www.repubblica.it) -
 [La Stampa](https://www.lastampa.it) -
