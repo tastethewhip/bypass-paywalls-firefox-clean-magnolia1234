@@ -86,20 +86,23 @@ _* free articles only._
 [The Wall Street Journal](https://www.wsj.com)
 
 ##### Tech/Science
+[360Dx](https://www.360dx.com) -
 [Chemical & Engineering News](https://cen.acs.org) -
 [Chronicle of Higher Education](https://www.chronicle.com) -
 [Dark Reading](https://www.darkreading.com) -
 [Discover Magazine](https://www.discovermagazine.com) -
+[GenomeWeb](https://www.genomeweb.com) -
 [MIT Technology Review](https://www.technologyreview.com) -
 [National Geographic USA](https://www.nationalgeographic.com) -
 [Nautilus](https://nautil.us) -
+[Precision Oncology News](https://www.precisiononcologynews.com) -
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
 [VentureBeat](https://venturebeat.com) -
 [Wired](https://www.wired.com)
 
-#### Encyclopedia/Book library/Knowledge base
+##### Encyclopedia/Book library/Knowledge base
 [BBC History Extra](https://www.historyextra.com) -
 [Encyclopedia Britannica](https://www.britannica.com) -
 [Glassdoor](https://www.glassdoor.com) -
@@ -123,6 +126,7 @@ _* free articles only._
 [The Art Newspaper](https://www.theartnewspaper.com) -
 [The Athletic](https://theathletic.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
+[The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com) -
@@ -206,7 +210,7 @@ Tribune Publishing Company sites like
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
-[The Athletic UK](https://theathletic.com) -
+[The Athletic UK](https://theathletic.co.uk) -
 [The Economist](https://www.economist.com) -
 [The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
@@ -240,6 +244,7 @@ Alma Talent sites (grouped in options) like
 [Esprit](https://esprit.presse.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
+[L'Oeil de la Photographie (fr/en)](https://loeildelaphotographie.com) -
 [L'Opinion](https://www.lopinion.fr) -
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
@@ -408,6 +413,7 @@ Grouped in options:\
 [La Nueva España](https://www.lne.es) -
 [La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com) -
+[Levante-EMV](https://www.levante-emv.com) -
 [Política Exterior](https://www.politicaexterior.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -579,7 +585,8 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies for non-listed sites).  
+\* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies for non-listed sites). You can also just request permissions for the custom sites you added yourself.
+
 Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
 Also you can enable Googlebot user-agent, disable Javascript for (sub)domain(s)/external sources and/or set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set).
