@@ -153,7 +153,9 @@ _* free articles only._
 [The Mercury News](https://www.mercurynews.com) -
 [The Seattle Times](https://www.seattletimes.com) -
 [The Philadelphia Inquirer](https://www.inquirer.com) -
-[Winston-Salem Journal](https://www.journalnow.com)\
+[Winston-Salem Journal](https://www.journalnow.com)
+
+[USA Today](https://www.usatoday.com)\
 Grouped in options:\
 Gannett Group (local USA Today) sites like (opt-in to custom sites)
 [Detroit Free Press](https://www.freep.com) -
@@ -509,6 +511,7 @@ Grupo Vocento (ABC) regional sites like
 * opt-in to custom sites for unlisted
 
 #### East Asia
+[Asia Times](https://asiatimes.com) -
 [Caixin Global](https://www.caixinglobal.com) -
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw) -
 [Harvard Business Review Taiwan](https://www.hbrtaiwan.com) -
@@ -523,6 +526,7 @@ Grupo Vocento (ABC) regional sites like
 [Bloomberg Quint](https://www.bloombergquint.com)* -
 [Business Standard](https://www.business-standard.com) -
 [LiveMint](https://www.livemint.com) -
+[The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
 [The Hindu](https://www.thehindu.com) -
 [The Hindu BusinessLine](https://www.thehindubusinessline.com)
 

@@ -3,6 +3,14 @@ Changelog Bypass Paywalls Clean - Firefox
 
 Post-release
 
+* v2.2.0.0 (2021-05-09)
+Add Asia Times
+Add The Economic Times (text/India)
+Add USA Today
+Fix-update American Banker
+Fix-update El Mercurio (Chile)
+Fix-update Reuters
+
 * v2.1.9.0 (2021-05-02)
 Add GenomeWeb, 360Dx & Precision Oncology News
 Add Levante-EMV (Spain)
